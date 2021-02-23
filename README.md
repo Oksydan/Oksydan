@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Igor Stępień</h1>
 <h4>Front-end developer from Bydgoszcz, Poland</h4>
 
-- 🔭 I’m currently working on [PrestaShop starter theme](https://github.com/Oksydan/modern-prestashop-starter-theme)
-
 - 🌱 I’m currently learning **next.js, react, graphql, node.js, php, web performance optimization.**
 
 - 📫 How to reach me **oksydan56@gmail.com**
