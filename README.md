@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **next.js, react, graphql, node.js, php, web performance optimization.**
 
-- 📫 How to reach me **oksydan56@gmail.com**
+- 📫 How to reach me **igor@istepin.dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
