@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **igor@istepien.dev**
 
+- 🏢 I am working as Front End Developer @ [Waynet](https://www.waynet.io/) - Top Prestashop agency
+
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
